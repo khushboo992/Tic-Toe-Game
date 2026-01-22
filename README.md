@@ -76,6 +76,13 @@ The game is designed to work on:
 
 ---
 
+## 🌐 Live Demo
+
+Live Project Link: 
+https://khushboo992.github.io/Tic-Toe-Game/
+
+---
+
 ## 👨‍💻 Author
 
 Developed by **Khushboo Rawat**
