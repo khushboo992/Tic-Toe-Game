@@ -22,7 +22,7 @@ The game is fully **responsive** and works smoothly on **desktop, tablet, and mo
 - HTML5
 - CSS3
 - JavaScript (ES6)
-
+   
 ---
 
 ## 📷 Screenshots
