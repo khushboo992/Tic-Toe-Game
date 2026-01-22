@@ -1,5 +1,5 @@
 
-# 🎮 Tic Tac Toe Game (Responsive Web App)
+# 🎮 Tic Tac Toe Game (Responsive Web Project)
 
 A simple and interactive **Tic Tac Toe game** built using **HTML, CSS, and JavaScript**.  
 The game is fully **responsive** and works smoothly on **desktop, tablet, and mobile devices**.
