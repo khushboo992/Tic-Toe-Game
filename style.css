@@ -1,0 +1,78 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  padding-top: 2rem;
+  background-color: #fa8112;
+  text-align: center;
+  font-weight: bold;
+}
+
+.container {
+  height: 70vh;
+  display: flex;
+  /* flex-wrap: wrap; */
+  /* agar ek line m nhi aa pa rhe ho to next line m aa jao */
+  justify-content: center;
+  align-items: center;
+}
+
+.game {
+  height: 60vmin;
+  width: 60vmin;
+  display: flex;
+  flex-wrap: wrap;
+  /* agar ek line m nhi aa pa rhe ho to next line m aa jao */
+  justify-content: center;
+  align-items: center;
+  gap: 1.5vmin;
+}
+
+.box {
+  cursor: pointer;
+  height: 18vmin;
+  width: 18vmin;
+  border-radius: 1rem;
+  border: none;
+  box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
+  font-size: 8vmin;
+  color: #222222;
+  background-color: #f5e7c6;
+}
+
+#reset-game,
+.new-btn {
+  cursor: pointer;
+  padding: 1rem;
+  font-size: 1.25rem;
+  background-color: #191913;
+  color: #fff;
+  border-radius: 1rem;
+  border: none;
+}
+
+#reset-game {
+  margin-bottom: 2rem;
+}
+
+#msg,
+#Draw {
+  color: #faf3e1;
+  font-size: 5vmin;
+}
+
+.msg-container,
+.DrawContainer {
+  height: 100vmin;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 4rem;
+}
+
+.hide {
+  display: none;
+}
